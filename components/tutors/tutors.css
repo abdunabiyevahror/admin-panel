@@ -1,0 +1,22 @@
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.mr-25 {
+    margin-right: 15px;
+}
+
+.m-25 {
+    margin: 15px 0;
+}
+
+.p-25 {
+    /*margin: 25px 0 0 15px;*/
+    padding-left: 40px;
+    box-sizing: border-box;
+}
+
+.d-flex {
+    display: flex;
+}

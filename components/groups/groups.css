@@ -1,0 +1,12 @@
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.mr-25 {
+    margin-right: 15px;
+}
+
+.m-25 {
+    margin: 15px 0;
+}
